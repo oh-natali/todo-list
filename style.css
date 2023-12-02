@@ -1,0 +1,22 @@
+.content {
+    background-image: url(new-year.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.content__list_button {
+    display: flex;
+    position: relative;
+    height: 45px;
+    padding: 30px;
+    padding-left: 25px;
+
+}
+
+.content__text {
+    color: rgb(76, 15, 243);
+    height: 20px;
+    background-color: rgb(251, 253, 255);
+    margin-left: 25px;
+}
